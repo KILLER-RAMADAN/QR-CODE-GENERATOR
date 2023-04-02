@@ -9,7 +9,9 @@
 # THE INPUT OF YOUR LINK & NAME OF YOUR QR-CODE..
 
 
-![Screenshot 2023-04-02 144037](https://user-images.githubusercontent.com/90656786/229353614-3a0a1727-255d-4b04-aa98-67998652bb55.png)
+
+![Screenshot 2023-04-02 144037](https://user-images.githubusercontent.com/90656786/229353629-22a96800-8609-41b0-9340-c6084d38422a.png)
+
 
 
 
