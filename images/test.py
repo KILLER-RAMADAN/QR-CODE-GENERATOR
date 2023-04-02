@@ -20,14 +20,18 @@ def simple_qr_code():
  window2.iconbitmap('app-photos/qr.ico')
  window2.attributes('-topmost', True)
  #main compononts....
- user_link=tk.Entry(window2,font=("Arial",15,"bold"),bg='white',width=45)
- user_link.place(x=130,y=60)
+ user_link1=tk.Entry(window2,font=("Arial",15,"bold"),bg='white',width=45)
+ user_link1.place(x=130,y=60)
+ user_link2=tk.Entry(window2,font=("Arial",15,"bold"),bg='white',width=45)
+ user_link2.place(x=130,y=100)
  button1=tk.Button(window2,font=("Arial",10,"bold"),height=1,width=18,text='Make Qr_Code',fg="white",background="#0F115B",bd=0,activebackground="green",command=lambda:my_generate_2())
  button1.place(x=635,y=60)
  button2=tk.Button(window2,font=("Arial",10,"bold"),height=1,width=18,text='Clear',fg="white",background="red",activebackground="red",bd=0,command=lambda:clear())
  button2.place(x=635,y=100)
- Label0=tk.Label(window2,text='INPUT HERE:',fg="black",font=("Bakbak One",15,"bold"))
+ Label0=tk.Label(window2,text='LINK HERE:',fg="black",font=("Bakbak One",15,"bold"))
  Label0.place(x=0,y=60)
+ Label1=tk.Label(window2,text='NAME HERE:',fg="black",font=("Bakbak One",15,"bold"))
+ Label1.place(x=0,y=100)
  Label3=tk.Label(window2)
  Label3.pack(side="left")
  Frame(window2,width=800,height=50,bg="black").place(x=0,y=450)
@@ -38,18 +42,20 @@ def simple_qr_code():
 #_______________________________________
  def my_generate_2():
     global my_img
-    if user_link.get()=="":
+    if user_link1.get()=="" or user_link2.get()=="":
       messagebox.showinfo("ENTER LINK","PLEASE INPUT LINK...",parent=window2)
     else:
-     my_qr = pyqrcode.create(f"{user_link.get()}") 
+     my_qr = pyqrcode.create(f"{user_link1.get()}") 
      my_qr.png('main-qrcode/test.png', scale=5, module_color=[0, 0, 0, 128], background=[0xff, 0xcc, 0xcc])
      my_qr = my_qr.xbm(scale=5)
      my_img=tk.BitmapImage(data=my_qr)
      Label3.config(image=my_img)
      img = Image.open(f"{home_directory}\\images\\main-qrcode\\test.png") 
-     img = img .save(f"{home_directory}//images//outputs-qrcode//{user_link.get()[6:20]}-qr-code.png")
+     img = img .save(f"{home_directory}//images//outputs-qrcode//{user_link2.get().upper()}-QR-CODE.png")
  def clear():
-   clear=user_link.delete(0,100)
-   return clear 
+   clear1=user_link1.delete(0,100) 
+   clear2=user_link2.delete(0,100)
+   Label3.config(text="QR-CODE-MADE-BY-AHMED RAMADAN.",font=("Bakbak One",30,"bold"))
+   return clear1 ,clear2
  window2.mainloop()
 simple_qr_code()
