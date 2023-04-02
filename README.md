@@ -1,9 +1,8 @@
 # QR-CODE-GENERATOR
 
-# MAIN PROGRAM
 
+![Screenshot 2023-04-02 144111](https://user-images.githubusercontent.com/90656786/229353567-fdf0530e-487c-43ff-a993-9454ea53104d.png)
 
-![Screenshot 2023-04-02 020446](https://user-images.githubusercontent.com/90656786/229353468-4366988f-c600-4fd1-81e7-b453278cbf6a.png)
 
 
 
