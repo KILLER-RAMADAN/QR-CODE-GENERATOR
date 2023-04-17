@@ -1,7 +1,8 @@
 # QR-CODE-GENERATOR
 
 
-![Screenshot 2023-04-02 144111](https://user-images.githubusercontent.com/90656786/229353567-fdf0530e-487c-43ff-a993-9454ea53104d.png)
+![Screenshot 2023-04-17 135638](https://user-images.githubusercontent.com/90656786/232478357-cd176b0d-a547-45d1-a6f2-bb8d06666bce.png)
+
 
 
 
@@ -10,7 +11,8 @@
 
 
 
-![Screenshot 2023-04-02 144037](https://user-images.githubusercontent.com/90656786/229353629-22a96800-8609-41b0-9340-c6084d38422a.png)
+![Screenshot 2023-04-17 135348](https://user-images.githubusercontent.com/90656786/232478414-c9fbdc80-773c-4a76-beee-e56a5f13e09e.png)
+
 
 
 
@@ -18,10 +20,12 @@
 # ANY QR-CODE YOU WELL GENERAT IT WITHOUT ANY ADDS😉
 
 
-![Screenshot 2023-04-02 144111](https://user-images.githubusercontent.com/90656786/229353509-0fc46421-8181-41fb-ad68-c9ab2852a844.png)
+![Screenshot 2023-04-17 140125](https://user-images.githubusercontent.com/90656786/232478461-68a4c08e-6bee-4b06-8a86-1d46475e3ca6.png)
 
 
-![Screenshot 2023-04-02 020410](https://user-images.githubusercontent.com/90656786/229353519-6ee19831-451f-45e3-a36a-18cb64ed8ee9.png)
+
+![AAA-QR-CODE](https://user-images.githubusercontent.com/90656786/232478531-f27e5fee-ac72-47d5-b817-2072276bc901.png)
+
 
 
 
