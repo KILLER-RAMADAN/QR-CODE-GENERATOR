@@ -69,8 +69,6 @@ def simple_qr_code():
     global file_locate
     global my_img
     link="https:"
-    if user_link1.get()=="":
-      messagebox.showinfo("ENTER LINK","PLEASE INPUT LINK...",parent=window2)
     if link not in user_link1.get():
       messagebox.showinfo("ENTER LINK","PLEASE INPUT CORRECT LINK...",parent=window2)
     elif user_link2.get()=="":
