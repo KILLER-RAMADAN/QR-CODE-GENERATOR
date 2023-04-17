@@ -2,7 +2,7 @@ install all libraries to run python script
 
 by following command in your terminal=>(pip install <name of the laibrary>)  <<important>>
 
-copy the main file (images) and put in your pc folder name to run the program..... <<important>>
+
 
 
 ################################################
