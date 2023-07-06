@@ -1,32 +1,17 @@
-# QR-CODE-GENERATOR
+![Screenshot 2023-07-06 154504](https://github.com/KILLER-RAMADAN/QR-CODE-GENERATOR/assets/90656786/6abbe275-95c2-4b50-882a-136634d5e632)
+
+# Home Page
+
+![Screenshot 2023-07-06 154540](https://github.com/KILLER-RAMADAN/QR-CODE-GENERATOR/assets/90656786/807d4719-5f3b-47d2-87db-60eb9deb98da)
 
 
-![Screenshot 2023-04-17 135638](https://user-images.githubusercontent.com/90656786/232478357-cd176b0d-a547-45d1-a6f2-bb8d06666bce.png)
+# Preview
+
+https://github.com/KILLER-RAMADAN/QR-CODE-GENERATOR/assets/90656786/534985f3-d6d6-4ad9-bbb4-2a980881cf2c
 
 
+# Linkedin
 
-
-
-# THE INPUT OF YOUR LINK & NAME OF YOUR QR-CODE..
-
-
-
-![Screenshot 2023-04-17 135348](https://user-images.githubusercontent.com/90656786/232478414-c9fbdc80-773c-4a76-beee-e56a5f13e09e.png)
-
-
-
-
-
-# ANY QR-CODE YOU WELL GENERAT IT WITHOUT ANY ADDS😉
-
-
-![Screenshot 2023-04-17 140125](https://user-images.githubusercontent.com/90656786/232478461-68a4c08e-6bee-4b06-8a86-1d46475e3ca6.png)
-
-
-
-![AAA-QR-CODE](https://user-images.githubusercontent.com/90656786/232478531-f27e5fee-ac72-47d5-b817-2072276bc901.png)
-
-
-
+![linkedin-Qr-Code](https://github.com/KILLER-RAMADAN/QR-CODE-GENERATOR/assets/90656786/89658a86-6dab-4ab7-8393-764ae441ea98)
 
 
